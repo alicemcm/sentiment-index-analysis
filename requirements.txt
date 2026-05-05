@@ -7,3 +7,8 @@ spacy
 spacytextblob
 newsapi-python
 matplotlib
+yfinance
+os
+hashlib
+transformers
+torch
